@@ -10,3 +10,6 @@
 2. ICONS: heroicons, font awesome
 
 3. page ruler reduex(chrome extension)
+
+4. position: absolute는 바로 위의 부모를 기준으로 움직이는 것이기 때문에,
+   부모에 position: relative를 적어줘야 함.

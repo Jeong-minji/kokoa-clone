@@ -24,6 +24,7 @@
   height: 24px;
   border-radius: 12px;
   position: absolute;
+  /*animation: notificationAmination 3s ease-in-out infinite;*/
 }
 
 .noti-dots {
@@ -33,3 +34,17 @@
   right: -4px;
   position: absolute;
 }
+
+/*
+@keyframes notificationAmination {
+  0% {
+    transfrom: none;
+  }
+  50% {
+    transform: translateY(10px) rotateX(45deg);
+  }
+  100% {
+    transform: none;
+  }
+}
+*/
